@@ -7,9 +7,9 @@
 
 ## About
 - **Planning a vacation/ renting a property?**
-  - Do you want to watch all the different places to stay in the city and see their reviews in one place?
+  - Do you want to watch all the different places to stay in a city and see travelers reviews all in one place?
   - Need an efficient way to manage your property rent?
-  > Made with the latest Tech including React, Redux, SCSS, MongoDB, NodeJS, Express and more.
+  > This app is a replica of the famous Airbnb, Made with the latest Tech including React, Redux, SCSS, MongoDB, NodeJS, Express and more.
 
 ***Things you can do in our app***
 
